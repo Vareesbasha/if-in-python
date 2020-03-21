@@ -1,0 +1,23 @@
+//just a sample of even or odd with python
+
+x = int(input("enter x")    //as x takes value in the shell/pychorm
+r = x%2           //modules is represented with '%' symbol
+
+If r==0:
+   print("even") 
+
+else:
+   print("odd") 
+
+
+
+print("Bye")   //this line is not exhiguted with 'if' but printed in the shell
+
+
+
+
+
+
+
+Output:
+//////////**just try**///////////
